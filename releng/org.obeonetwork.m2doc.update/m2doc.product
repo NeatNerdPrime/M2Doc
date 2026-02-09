@@ -30,9 +30,6 @@
       <feature id="org.eclipse.emf.ecore"/>
       <feature id="org.eclipse.equinox.core.feature"/>
       <feature id="org.eclipse.equinox.executable"/>
-      <feature id="org.eclipse.ecf.core.feature"/>
-      <feature id="org.eclipse.ecf.filetransfer.httpclient5.feature"/>
-      <feature id="org.eclipse.ecf.filetransfer.feature"/>
       <feature id="org.eclipse.platform"/>
       <feature id="org.obeonetwork.m2doc.feature"/>
       <feature id="org.obeonetwork.m2doc.html.feature"/>

@@ -1,12 +1,12 @@
 [
   {
     "java":"21",
-    "profile":"platform-2024-12,tests,updatesites",
+    "profile":"platform-2025-12,tests,updatesites",
     "tycho":"4.0.13"
   },
   {
     "java":"21",
-    "profile":"platform-sirius-7.4.11,tests",
+    "profile":"platform-sirius-7.5.0,tests",
     "tycho":"4.0.13"
   }
 ]
