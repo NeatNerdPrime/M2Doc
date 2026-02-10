@@ -89,7 +89,7 @@ location "https://download.eclipse.org/sirius/updates/releases/7.5.0/2025-09/" {
 	org.eclipse.sirius.runtime.ide.ui.feature.group lazy
 }
 
-location "https://download.eclipse.org/acceleo/updates/nightly/latest/" {
+location "https://download.eclipse.org/acceleo/updates/releases/4.2/R202602100910/" {
 	// AQL
 	org.eclipse.acceleo.query.feature.group lazy
 	org.eclipse.acceleo.query.source.feature.group lazy
